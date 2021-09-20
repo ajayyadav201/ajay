@@ -1,7 +1,7 @@
 from telegram.ext  import Updater, MessageHandler, Filters
  
 from Adafruit_IO import Client   
-aio = Client('AjayYadav201','aio_PuyU00MfM04RB1wHz0CXySMcJS3V')
+aio = Client('AjayYadav201','aio_yHAz179WwHJeL2fBDzIUAfncUI0U')
  
  
 def Ajayyadavbot1(bot,update):
