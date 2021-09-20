@@ -1,6 +1,6 @@
 import os
-Active_key = = os.getenv('Active_key')
-Username = = os.getenv('Username')
+Active_key = os.getenv('Active_key')
+Username = os.getenv('Username')
 bot_token = os.getenv('bot_token')
 
 from telegram.ext  import Updater, MessageHandler, Filters
